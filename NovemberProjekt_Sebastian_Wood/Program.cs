@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using RestSharp; //är bibloteket för requesten i koden. 
+using Newtonsoft.Json; //omvandlar JSON kod (javascript objekt notering) till csharp kod. V
 
 namespace NovemberProjekt_Sebastian_Wood
 {
